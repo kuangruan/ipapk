@@ -1,0 +1,6 @@
+github.com/andrianbdn/iospng v0.0.0-20180730113000-dccef1992541 h1:PlePBgD++64Pjmo5HtrBuBxt1oWTUkc0PzrrLk822uA=
+github.com/andrianbdn/iospng v0.0.0-20180730113000-dccef1992541/go.mod h1:Ct7Kf2zP3u3uzYRRwayZEwtAQGJ2leVXiR6DQI9IqPo=
+github.com/kuangruan/go-plist v0.0.0-20240606063253-7614da78e03b h1:sDdAE1Xb/rR5fJVI9xgKMM7oQLsoKrjk5cv4Y5lQxb4=
+github.com/kuangruan/go-plist v0.0.0-20240606063253-7614da78e03b/go.mod h1:1y1DFIdJSzepjbek4SAZjzjoWLE2zHs/7ZmnMreDATc=
+github.com/shogo82148/androidbinary v1.0.5 h1:7afvcNw+vT84R0ugrL/u/DIrGYylC66yNvt0Y0j7rrM=
+github.com/shogo82148/androidbinary v1.0.5/go.mod h1:FzpR5bLAXR3VsAUG4BRCFaUm0WV6YD4Ldu+m05tr9Vk=
