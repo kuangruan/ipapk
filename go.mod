@@ -1,4 +1,4 @@
-module ipapk
+module github.com/kuangruan/ipapk
 
 go 1.22
 
